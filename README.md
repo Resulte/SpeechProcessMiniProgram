@@ -7,18 +7,6 @@
 
 ![QRcode](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/gh_8abc46d7ecd7_258.jpg)
 
-### 项目UI
-
-本项目只有4张页面
-
-![index](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/index.png)
-
-![img1](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/img1.png)
-
-![img2](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/img2.png)
-
-![img3](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/img3.png)
-
 ### 技术原理
 
 本项目基于微信同声传译插件二次开发：
