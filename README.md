@@ -11,13 +11,13 @@
 
 本项目只有4张页面
 
-![img1](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/微信图片_20200521212546.jpg)
+![index](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/index.png)
 
-![img2](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/微信图片_20200521212606.jpg)
+![img1](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/img1.png)
 
-![img3](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/微信图片_20200521212618.jpg)
+![img2](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/img2.png)
 
-![index](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/微信图片_20200521212614.jpg)
+![img3](https://github.com/Resulte/SpeechProcessMiniProgram/blob/master/image/img3.png)
 
 ### 技术原理
 
