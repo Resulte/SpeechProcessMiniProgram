@@ -1,0 +1,13 @@
+<view class="head">语音合成</view>
+<view class="body">输入文本</view>
+<view >
+<!-- bindsubmit="bindFormSubmit"-->
+  <form bindsubmit="play">
+    <textarea placeholder="请输入..." name="message"/>
+    <view class="body" >
+    <radio-group bindchange="radioChange">选择语言： <radio checked value="zh_CN">汉语</radio> <text decode="true">&nbsp;&nbsp;</text><radio value="en_US">英语</radio></radio-group>
+    </view>
+    <button form-type="submit" class="btn1">合成播放</button>
+  </form>
+  <button catchtap="download" class="btn2">下载音频</button>
+</view>

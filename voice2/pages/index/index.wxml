@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<image src="/img/header3.png" class="header" ></image>
+
+<view >
+   <image src="/img/body1_12.png" class="img1,card" catchtap="text2speechEN"></image>
+  <image src="/img/body2_12.png" class="img2,card" catchtap="text2speech"></image>
+  <image src="/img/body3_11.png" class="img3,card" catchtap="record"></image> 
+  <!-- <button class="btn1" catchtap="text2speechEN">语音识别</button> 
+   <button class="btn2" catchtap="text2speech">语音合成</button>
+  <button class="btn3" catchtap="record">同声传译</button>  -->
+</view>

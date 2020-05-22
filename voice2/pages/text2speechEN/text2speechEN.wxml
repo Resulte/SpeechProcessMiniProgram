@@ -1,0 +1,17 @@
+<!-- <view style="background-image:url('../../img/background1.jpeg');"></view> -->
+
+<view class="head">语音识别</view>
+<view class="body">识别结果</view>
+
+<view><textarea placeholder="识别中..." value="{{currentText}}"/></view>
+<view class="body,switch">选择语言</view>
+    <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+      <view class="picker">
+        当前选择：{{array[index]}}
+      </view>
+    </picker>
+
+<button catchtouchstart="streamRecord" catchtouchend="streamRecordEnd">按住说话</button>
+
+
+

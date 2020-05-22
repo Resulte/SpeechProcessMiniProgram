@@ -1,0 +1,60 @@
+/**index.wxss**/
+.header{
+  width: 100%;
+  height: 35%;
+  position: fixed;
+}
+.card {
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 4px 1px 1px #cccccc;
+  margin: 8px;
+  position: relative;
+}
+.img1{
+  width: 55%;
+  height: 17%;
+  margin-left: 22%;
+  bottom: 44%;
+  position: fixed;
+}
+.img2{
+  width: 55%;
+  height: 17%;
+  margin-left: 22%;
+  bottom: 25%;
+  position: fixed;
+}
+.img3{
+  width: 55%;
+  height: 17%;
+  margin-left: 22%;
+  bottom: 6%;
+  position: fixed;
+}
+.btn1{
+  width: 60%;
+  height: 15%;
+  position: fixed;
+  bottom: 34%;
+  margin-left: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  color: white;
+  background: linear-gradient(#5EFCE8,#736EFE); 
+}
+.btn2{
+  width: 40%;
+  position: fixed;
+  bottom: 22%;
+  margin-left: 30%;
+}
+.btn3{
+  width: 40%;
+  position: fixed;
+  bottom: 10%;
+  margin-left: 30%;
+}

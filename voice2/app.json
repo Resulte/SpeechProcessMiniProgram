@@ -1,0 +1,25 @@
+{
+  "pages":[
+    
+    "pages/index/index",
+    "pages/text2speechEN/text2speechEN",
+    "pages/record2/record2",
+    "pages/text2speech/text2speech",
+    "pages/record/record",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "声Lite",
+    "navigationBarTextStyle":"white"
+  },
+
+  "sitemapLocation": "sitemap.json",
+  "plugins": {
+    "WechatSI": {
+      "version": "0.3.3",
+      "provider": "wx069ba97219f66d99"
+    }
+  }
+}

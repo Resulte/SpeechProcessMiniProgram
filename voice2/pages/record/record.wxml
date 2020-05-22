@@ -1,0 +1,22 @@
+<!--pages/record/record.wxml-->
+<!-- <image src="/img/header3_1.png" class="header"></image> -->
+<view class="head">同声传译</view>
+
+<view class="body">
+<view class="text_up">语音识别内容：</view>
+<textarea placeholder="识别中..." value="{{currentText}}" auto-height="true"/>
+<view class="text_down">翻译结果：</view>
+<textarea placeholder="翻译中..." value="{{translateText}}" auto-height="true"/>
+</view>
+<view class="bottom">
+  <view class="btn_view">
+    <button class="btn" hover-class="btn_down" catchtouchstart="streamRecord" data-lang="ch" catchtouchend="streamRecordEnd">中文</button>
+    <button class="btn" hover-class="btn_down" catchtouchstart="streamRecord" data-lang="en"   catchtouchend="streamRecordEnd">English</button>
+  </view>
+  <view class="btn_view">
+    <button class="non_btn1"  hover-class="none">长按说话</button>
+    <button class="non_btn2"  hover-class="none">hold to talk</button>
+    <!-- <view class="text_left">长按说话</view>
+    <view class="text_right">hold to talk</view> -->
+  </view>
+</view>
